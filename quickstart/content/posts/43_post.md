@@ -1,7 +1,7 @@
 ---
 title: "பத்தாயம்"
 date: 2023-07-26T16:49:12Z
-draft: true
+draft: false
 ---
 
 # உப்பு
