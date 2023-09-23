@@ -1,4 +1,3 @@
-baseURL = 'https://kazhalgal.silambu.us/blogs/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'கழல்கள்'
-theme = 'ananke'
+title = 'My New Hugo Site'

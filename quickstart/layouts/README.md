@@ -1,1 +1,0 @@
-# This is just dummy file for keeping layouts folder
